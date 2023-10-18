@@ -1,0 +1,7 @@
+-   id: fmt
+    name: fmt
+    description: Format files with scarb fmt.
+    entry: scarb fmt
+    language: system
+    files: \.cairo$
+    args: []
